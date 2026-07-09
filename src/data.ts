@@ -1,11 +1,13 @@
 import { Project, Initiative, SkillCategory, ImpactStat, TimelineItem } from './types';
+import founderAvatar from './assets/images/founder_avatar_1783583261822.jpg';
+import heroTechBanner from './assets/images/hero_tech_banner_1783583243377.jpg';
 
 export const personalInfo = {
   name: 'Qaisar Roonjha',
   title: 'AI Educator & Community Innovator',
   subtitle: 'Bridging frontier technology and grassroots communities to empower the next generation of digital creators.',
-  avatarUrl: '/src/assets/images/founder_avatar_1783583261822.jpg',
-  bannerUrl: '/src/assets/images/hero_tech_banner_1783583243377.jpg',
+  avatarUrl: founderAvatar,
+  bannerUrl: heroTechBanner,
   email: 'qaisar@waseela.pk',
   location: 'Balochistan, Pakistan',
   tagline: 'Empowering Urdu speakers and rural youth with Generative AI skills, localized digital products, and community-led social impact.',
