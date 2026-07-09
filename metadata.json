@@ -1,0 +1,6 @@
+{
+  "name": "Qaisar Roonjha Portfolio",
+  "description": "Premium personal portfolio of Qaisar Roonjha, an AI educator, digital creator, community innovator, and impact founder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
